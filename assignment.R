@@ -22,8 +22,10 @@
 #    Cre06.g278213.v5.5
 #    Try different settings to see
 #    what works best for each. 
-#    Plot at least one on a log scale.
-#    Plot at least one without error bars.
+#    Plot at least one, but not all,
+#    on a log scale.
+#    Plot at least one, but not all,
+#    without error bars.
 #    Save each plot as a PDF. 
 
 #  2) Look up each of the six genes
@@ -31,6 +33,9 @@
 #     https://phytozome.jgi.doe.gov/
 #     What gene is it? Briefly, what function 
 #     does it serve in C. reinhardtii?
+#     Note that when you search Phytozome, 
+#     you will have to omit the 
+#     ".v5.5" in the gene ID.
 
 #  3) Choose one of the six genes.
 #     Does the expression 
