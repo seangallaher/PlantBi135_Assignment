@@ -1,1 +1,2 @@
 cuffData.db filter=lfs diff=lfs merge=lfs -text
+RNAseq_data/gene_exp.diff filter=lfs diff=lfs merge=lfs -text
