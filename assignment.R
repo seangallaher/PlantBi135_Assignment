@@ -12,15 +12,18 @@
 
 
 
-# 1) For each of the following six genes,
-#    make an expression plot on a linear
-#    scale (i.e. not log scale). 
+# 1) Make an expression plot for each 
+#    of the following six genes,
 #    Cre01.g044800.v5.5
 #    Cre02.g120100.v5.5
 #    Cre01.g015250.v5.5
 #    Cre01.g016600.v5.5
 #    Cre02.g091050.v5.5
 #    Cre06.g278213.v5.5
+#    Try different settings to see
+#    what works best for each. 
+#    Plot at least one on a log scale.
+#    Plot at least one without error bars.
 #    Save each plot as a PDF. 
 
 #  2) Look up each of the six genes
@@ -57,7 +60,7 @@
 library(cummeRbund)
 
 # Load the RNA-Seq data into a database called cuff
-cuff <- readCufflinks()
+cuff <- readCufflinks(dir = "~/PlantBi135_Assignment/RNAseq_data/")
 
 
 
