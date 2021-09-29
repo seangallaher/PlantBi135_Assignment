@@ -51,3 +51,13 @@
 # answers, and PDFs of your plots.
 
 # Good luck!!!
+
+
+# Load the cummeRbund library:
+library(cummeRbund)
+
+# Load the RNA-Seq data into a database called cuff
+cuff <- readCufflinks()
+
+
+
