@@ -11,15 +11,14 @@
 # www.pnas.org/cgi/doi/10.1073/pnas.1815238116
 
 
-
 # 1) Make an expression plot for each 
 #    of the following six genes,
-#    Cre01.g044800.v5.5
-#    Cre02.g120100.v5.5
-#    Cre01.g015250.v5.5
-#    Cre01.g016600.v5.5
-#    Cre02.g091050.v5.5
-#    Cre06.g278213.v5.5
+#    Cre01.g044800
+#    Cre02.g120100
+#    Cre01.g015250
+#    Cre01.g016600
+#    Cre02.g091050
+#    Cre06.g278213
 #    Try different settings to see
 #    what works best for each. 
 #    Plot at least one, but not all,
@@ -33,9 +32,6 @@
 #     https://phytozome.jgi.doe.gov/
 #     What gene is it? Briefly, what function 
 #     does it serve in C. reinhardtii?
-#     Note that when you search Phytozome, 
-#     you will have to omit the 
-#     ".v5.5" in the gene ID.
 
 #  3) Choose one of the six genes.
 #     Does the expression 
