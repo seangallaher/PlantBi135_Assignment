@@ -34,9 +34,10 @@
 #     does it serve in C. reinhardtii?
 
 #  3) Choose one of the six genes.
-#     Does the expression 
+#     Describe the expression pattern
+#     of your gene (i.e. when is it
+#     expressed?). Does the expression 
 #     pattern of your gene 
-#     (i.e. when it is expressed)
 #     make sense for that gene's 
 #     function? Why or why not?
 
